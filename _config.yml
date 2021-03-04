@@ -1,8 +1,8 @@
 # site settings
 title: Kaitlin Throgmorton
-subtitle: Data Curator | MLIS | Open Data Champion
+subtitle: MLIS
 email: kaitlin@kaitlinthrogmorton.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: From a love of literature, to a love of writing, to a love of data, my career journey has taken a few turns over the past decade. One theme weaves through it all, however: I love helping people access the information they need.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
