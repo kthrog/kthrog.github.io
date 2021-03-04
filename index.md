@@ -1,11 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Kaitlin'
+landing-title: 'Hi, my name is Kaitlin.'
 description: null
 image: null
 author: null
-show_tile: true
+show_tile: false
 ---
-
-Change this later.
