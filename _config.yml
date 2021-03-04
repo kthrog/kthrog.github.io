@@ -20,13 +20,13 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url: httsp://github.com/kthrog
+github_url: https://github.com/kthrog
 gitlab_url: 
 instagram_url: 
-linkedin_url: 
+linkedin_url: https://www.linkedin.com/in/kthrog/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url: https://twitter.com/kthrog
 
 # build settings
 markdown: kramdown
