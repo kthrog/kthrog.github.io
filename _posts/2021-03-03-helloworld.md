@@ -7,4 +7,6 @@ image:
 
 # Hello, World!
 
-This is a new post.
+Welcome to my website.
+
+(This is a test post.)
