@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: CV & Portfolio
 nav-menu: true
 ---
 
@@ -11,37 +11,80 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>CV & Portfolio</h1>
 		</header>
+	<p>	<a href="#" class="button icon fa-download">Download Full CV (PDF)</a> </p>
 
-<!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<!-- ContentOne -->
+<h2 id="ContentOne">Current Work</h2>
+<p><ul><li>Bioinformatics Analyst, Data Curator.</li>
+       <li>Sage Bionetworks — Computational Oncology Team.</li>
+   	   <li>Seattle, WA.</li>
+</ul></p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Professional Experience</h3>
+		<p><ul>
+			<li>2020-21 | Associate Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
+			<li>2018-20 | Research Assistant, <i>University of Washington — Information School — Open Data Literacy Project.</i></li>	
+			<li>2019 | Metadata Intern, <i>City of Seattle.</i></li>
+			<li>2015-19 | Owner, Writer, & Editor, <i>Kaitlin Throgmorton, LLC</i>.</li>
+			<li>2011-16 | Communications Specialist & Volunteer Recruiter, <i>North Carolina Guardian ad Litem</i>.</li>
+			<li>2010-11 | Marketing Assistant, <i>Top Flight, Inc</i>.</li>
+			</ul>
+		</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Education</h3>
+		<p><ul>
+			<li>2020 | MLIS — Library & Information Science, <i>University of Washington</i>.</li>
+    		<li>2010 | BA — English & Spanish, <i>Covenant College</i>.</li>
+			</ul>
+		</p>
 	</div>
-	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-</div>
 
-<hr class="major" />
+
+<!-- ContentTwo -->
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Teaching</h3>
+		<p>
+		<h5>ACADEMIC</h5>
+			<ul>
+			<li>2021 | Guest Lecturer, Data Curation I, <i>University of Washington, Information School.</i></li> 
+			<li>2021 | Guest Lecturer, Data Curation II, <i>University of Washington, Information School.</i></li> 
+			<li>2019 | Teaching Assistant, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
+			</ul>
+		<h5>WORKSHOP</h5>
+			<ul>
+			<li>2019 | Volunteer Leader, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
+			<li>2015 | Lead Facilitator, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
+			</ul>
+		</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Service</h3>
+		<p><ul>
+			<li>2020 | Student Representative, iSchool COVID-19 Response Task Force, <i>University of Washington.</i></li>
+			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington.</i></li>
+			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good.</i></li>
+			</ul>
+		</p>
+	</div>
+
+<h2 id="ContentTwo">Publications</h2>
+		<p><ul>
+			<li>Palmer, C.L., Weber, N., Throgmorton, K., & Norlander, B. (2021). Public Libraries and Open Government Data: Partnerships for Progress. <i>Library Journal.</i> <a href="https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress">https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress</a></li>
+			<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2020). Open data in public libraries: Gauging activities and supporting ambitions. <i>Proceedings of the Association for Information Science and Technology, 57</i>(1). <a href="https://doi.org/10.1002/pra2.321">https://doi.org/10.1002/pra2.321</a></li>               
+			<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2019). Open Data Literacy and the library. <i>Alki: The Washington Library Association Journal, 35</i>(2), 27–29.</li>
+			<li>Palmer, C.L., Weber, N., Norlander, B., & Throgmorton, K.F. (2019). Advancing open data: Aligning education with public sector data challenges. Poster session presented at iSchool Research Symposium, Seattle, WA.</li>
+			<li>Throgmorton, K. (2017). Open educational resources: Redefining the role of school librarians. <i>American Libraries, 48</i>(9-10), 16.</li>
+			<li>Throgmorton, K. (2017). Mental health first aid: Training librarians to help patrons in crisis. <i>American Libraries, 48</i>(3-4), 22.</li>
+			<li>Throgmorton, K. (2017). The future of library cards: Technology makes library resources more accessible. <i>American Libraries, 48</i>(1-2), 22.</li>
+			<li>Throgmorton, K. (2016). A balancing act: Shared spaces in libraries. <i>American Libraries, 47</i>(11-12), 20.</li>
+			<li>Throgmorton, K. (2016). Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile. <i>American Libraries, 47</i>(6), 42.</li>
+		</ul></p>
+
 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>

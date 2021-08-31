@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello, World
+title: Classic Greeting
 description: random
 image: 
 ---

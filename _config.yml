@@ -2,7 +2,7 @@
 title: Kaitlin Throgmorton
 subtitle: MLIS
 email: kaitlin@kaitlinthrogmorton.com
-description: Add descrip.
+description: A commitment to data access, literacy, and reuse for everybody, through the lens of librarianship.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings
 500px_url:
@@ -26,7 +26,9 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/in/kthrog/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/kthrog
+twitter_url: 
+goodreads_url: 
+
 
 # build settings
 markdown: kramdown

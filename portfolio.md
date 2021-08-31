@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data Curation</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>During graduate school, data curation and librarianship, especially of open data, became one of my top areas of interest. I'm intrigued by all things data -- data literacy, data science, and databases, and I believe librarians can play a crucial role in increasing access to this increasingly important resource.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
