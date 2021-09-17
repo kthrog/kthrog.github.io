@@ -3,7 +3,7 @@ title: Portfolio
 layout: portfolio
 description: My work told through stories and examples
 image: assets/images/bostonpubliclibrary_landscape.png
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

@@ -2,7 +2,6 @@
 layout: post
 title: About
 description: What's my why, and how did I get here
-image: assets/images/kaitlin_hiddenlake.png
 nav-menu: true
 ---
 
