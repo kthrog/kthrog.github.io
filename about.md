@@ -5,9 +5,9 @@ description:
 nav-menu: true
 ---
 
-<b>My Mission
+<b>My Mission</b>
 
-<i>To empower equitable information access and reuse through data education and policy, especially for publicly funded data.</i></b>
+<i><b>To empower equitable information access and reuse through data education and policy, especially for publicly funded data.</i></b>
 
 From a love of literature, to a love of writing, to a love of data, especially science and government data, my career journey has taken a few turns over the past decade. One theme weaves through it all, however: I love helping people access the information they need. 
 
