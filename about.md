@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-description: Empowering equitable information access and reuse 
+description: What's my why, and how did I get here
 image: assets/images/kaitlin_hiddenlake.png
 nav-menu: true
 ---
@@ -16,10 +16,10 @@ Though the domains have changed over the years, my work continues to focus on re
 
 <b>My Career</b>
 
-After a decade of managing communications and writing projects for state government, nonprofits, and freelance clients, I went back to school to learn more about libraries, information, and data. Data was becomingly increasingly prevalent in my day-to-day work, and I wanted to know more. In 2018, I began attending <a href="https://ischool.uw.edu/">University of Washington's (UW)Information School</a>, focusing on academic librarianship, data management, open data, information literacy, and digital equity. While at UW, I worked as a research assistant for the <a href="http://odl.ischool.uw.edu/">Open Data Literacy</a> project, researching open data in public libraries. In my final capstone project, <a href="https://opendatawagon.github.io/">Open Data Wagon</a>, my teammate and I collected, structured, cleaned, de-identified, and published open bookmobile data on a state government open data portal. In 2020, I graduated from UW with my master's in library and information science (MLIS).
+After a decade of managing communications and writing projects for state government, nonprofits, and freelance clients, I went back to school to learn more about libraries, information, and data. Data was becomingly increasingly prevalent in my day-to-day work, and I wanted to know more. In 2018, I began attending University of Washington's (UW) Information School, focusing on academic librarianship, data management, open data, information literacy, and digital equity. While at UW, I worked as a research assistant for the <a href="http://odl.ischool.uw.edu/">Open Data Literacy</a> project, researching open data in public libraries. In my final capstone project, <a href="https://opendatawagon.github.io/">Open Data Wagon</a>, my teammate and I collected, structured, cleaned, de-identified, and published open bookmobile data on a state government open data portal. In 2020, I graduated from UW with my master's in library and information science (MLIS).
 
-Following graduation, I worked as a bioinformatics analyst and data curator at <a href="https://sagebionetworks.org/">Sage Bionetworks</a>. While at Sage, most of my work centered on data curation and harmonization, metadata standards development, and user documentation to promote open science in the areas of neurofibromatosis and immunotherapy. 
+Following graduation, I worked as a bioinformatics analyst and data curator at Sage Bionetworks. While at Sage, most of my work centered on data curation and harmonization, metadata standards development, and user documentation to promote open science in the areas of neurofibromatosis and immunotherapy. 
 
 <b>My Current Work</b>
 
-Coming soon!
+<i>Coming soon!</i>

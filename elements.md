@@ -1,6 +1,7 @@
 ---
 layout: page
-title: CV & Portfolio
+title: CV
+description: My work in linear fashion
 nav-menu: true
 ---
 
@@ -17,14 +18,14 @@ nav-menu: true
 
 <!-- ContentOne -->
 <h2 id="ContentOne">Current Work</h2>
-<p><ul><li>Bioinformatics Analyst, Data Curator.</li>
-       <li>Sage Bionetworks — Computational Oncology Team.</li>
-   	   <li>Seattle, WA.</li>
+<p><ul><li><i>Coming soon!</i></li>
+       
 </ul></p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Professional Experience</h3>
 		<p><ul>
+			<li>2021 | Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
 			<li>2020-21 | Associate Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
 			<li>2018-20 | Research Assistant, <i>University of Washington — Information School — Open Data Literacy Project.</i></li>	
 			<li>2019 | Metadata Intern, <i>City of Seattle.</i></li>
@@ -34,7 +35,7 @@ nav-menu: true
 			</ul>
 		</p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="6u 12u$(small)">
 		<h3>Education</h3>
 		<p><ul>
 			<li>2020 | MLIS — Library & Information Science, <i>University of Washington</i>.</li>

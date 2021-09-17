@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: portfolio
-description: 'Welcome to my portfolio.'
+description: My work told through stories and examples
 image: assets/images/bostonpubliclibrary_landscape.png
 nav-menu: true
 ---
