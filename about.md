@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-description: What's my why, and how did I get here
+description: 
 nav-menu: true
 ---
 

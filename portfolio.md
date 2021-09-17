@@ -1,7 +1,7 @@
 ---
 title: Portfolio
 layout: portfolio
-description: My work told through stories and examples
+description: 
 image: assets/images/bostonpubliclibrary_landscape.png
 nav-menu: false
 ---
@@ -13,9 +13,9 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Career Journey</h2>
+			<h2>Overview</h2>
 		</header>
-		<p>From a love of literature, to a love of writing, to a love of data, my career journey has taken a few turns over the past decade. One theme weaves through it all, however: I love helping people access the information they need.</p>
+		<p>To learn more about my work, see projects below.</p>
 	</div>
 </section>
 
@@ -87,17 +87,5 @@ nav-menu: false
 	</section>
 </section>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Final Section</h2>
-		</header>
-		<p>Add text here...</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
 
 </div>
