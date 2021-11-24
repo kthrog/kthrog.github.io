@@ -15,7 +15,7 @@ Though the domains have changed over the years, my work continues to focus on re
 
 <b>My Current Work</b>
 
-<i>Coming soon!</i>
+Currently, I'm the data librarian for the health sciences at the Harvey Cushing / John Hay Whitney Medical Library at Yale University. My position supports the data needs of students, faculty, staff, researchers, and clinicians across the medical campus primarily through reference and instruction, as well as other data services. 
 
 <b>My Career to Date</b>
 
