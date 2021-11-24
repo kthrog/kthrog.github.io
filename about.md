@@ -5,7 +5,7 @@ description:
 nav-menu: true
 ---
 
-<h3Mission</h3>
+<h3>Mission</h3>
 
 <b>To empower equitable information access and reuse through data education and policy, especially for publicly funded data.</b>
 
