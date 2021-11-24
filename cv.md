@@ -19,7 +19,7 @@ nav-menu: true
 
 <!-- ContentOne -->
 <h2 id="ContentOne">Current Work</h2>
-<p><ul><li><i>Coming soon!</i></li>
+		<p><ul><li><i>2021-Present | Data Librarian for the Health Sciences, <i>Yale University</i>.</li>
        
 </ul></p>
 <div class="row">
