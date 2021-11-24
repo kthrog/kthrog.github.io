@@ -23,4 +23,4 @@ After a decade of managing communications and writing projects for state governm
 
 Following graduation, I worked as a bioinformatics analyst and data curator at Sage Bionetworks. While at Sage, most of my work centered on data curation and harmonization, metadata standards development, and user documentation to promote open science in the areas of neurofibromatosis and immunotherapy. 
 
-Read more in my <a href="https://www.kaitlinthrogmorton.com/cv.html">CV</a> and <a href=https://www.kaitlinthrogmorton.com/portfolio.html"">portfolio</a>.
+Read more in my <a href="https://www.kaitlinthrogmorton.com/cv.html">CV</a> and <a href="https://www.kaitlinthrogmorton.com/portfolio.html">portfolio</a>.
