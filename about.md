@@ -17,7 +17,7 @@ Though the domains have changed over the years, my work continues to focus on re
 
 Currently, I'm the data librarian for the health sciences at the Harvey Cushing / John Hay Whitney Medical Library at Yale University. My position supports the data needs of students, faculty, staff, researchers, and clinicians across the medical campus primarily through reference and instruction, as well as other data services. 
 
-<h3>Career to Date</h3>
+<h3>Career Journey</h3>
 
 After a decade of managing communications and writing projects for state government, nonprofits, and freelance clients, I went back to school to learn more about libraries, information, and data. Data was becomingly increasingly prevalent in my day-to-day work, and I wanted to know more. In 2018, I began attending University of Washington's (UW) Information School, focusing on academic librarianship, data management, open data, information literacy, and digital equity. While at UW, I worked as a research assistant for the <a href="http://odl.ischool.uw.edu/">Open Data Literacy</a> project, researching open data in public libraries. In my final capstone project, <a href="https://opendatawagon.github.io/">Open Data Wagon</a>, my teammate and I collected, structured, cleaned, de-identified, and published open bookmobile data on a state government open data portal. In 2020, I graduated from UW with my master's in library and information science (MLIS).
 
