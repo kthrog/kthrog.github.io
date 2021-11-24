@@ -19,9 +19,9 @@ nav-menu: true
 
 <!-- ContentOne -->
 <h2 id="ContentOne">Current Work</h2>
-		<p><ul><li><i>2021-Present | Data Librarian for the Health Sciences, <i>Yale University</i>.</li>
-       
-</ul></p>
+		<p><ul>
+			<li>2021-Present | Data Librarian for the Health Sciences, <i>Yale University</i>.</li>
+		</ul></p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Professional Experience</h3>
