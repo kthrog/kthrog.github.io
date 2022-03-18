@@ -26,8 +26,7 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Professional Experience</h3>
 		<p><ul>
-			<li>2021 | Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
-			<li>2020-21 | Associate Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
+			<li>2020-2021 | Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
 			<li>2018-20 | Research Assistant, <i>University of Washington — Information School — Open Data Literacy Project.</i></li>	
 			<li>2019 | Metadata Intern, <i>City of Seattle.</i></li>
 			<li>2015-19 | Owner, Writer, & Editor, <i>Kaitlin Throgmorton, LLC</i>.</li>
@@ -44,16 +43,17 @@ nav-menu: true
 			</ul>
 		</p>
 	</div>
+</div>
 
 <!-- ContentTwo -->
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Teaching</h3>
 		<p>
-		<h5>ACADEMIC</h5>
+		<h5>ACADEMIC COURSES</h5>
 			<ul>
-			<li>2021 | Guest Lecturer, Data Curation I, <i>University of Washington, Information School.</i></li> 
-			<li>2021 | Guest Lecturer, Data Curation II, <i>University of Washington, Information School.</i></li> 
+			<li>2021 | Guest Lecture: De-Mystifying Biomedical (Meta)Data, Module 5, Data Curation I, <i>University of Washington, Information School.</i></li> 
+			<li>2021 | Guest Lecture: Beyond Data Standards, Module 4, Data Curation II, <i>University of Washington, Information School.</i></li> 
 			<li>2019 | Teaching Assistant, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
 			</ul>
 		<h5>WORKSHOP</h5>
@@ -72,8 +72,10 @@ nav-menu: true
 			</ul>
 		</p>
 	</div>
+</div>
 
-<h2 id="ContentTwo">Publications</h2>
+<!-- ContentThree -->
+<h2 id="ContentThree">Publications</h2>
 		<p><ul>
 			<li>Palmer, C.L., Weber, N., Throgmorton, K., & Norlander, B. (2021). Public Libraries and Open Government Data: Partnerships for Progress. <i>Library Journal.</i> <a href="https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress">https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress</a></li>
 			<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2020). Open data in public libraries: Gauging activities and supporting ambitions. <i>Proceedings of the Association for Information Science and Technology, 57</i>(1). <a href="https://doi.org/10.1002/pra2.321">https://doi.org/10.1002/pra2.321</a></li>               
@@ -85,14 +87,7 @@ nav-menu: true
 			<li>Throgmorton, K. (2016). A balancing act: Shared spaces in libraries. <i>American Libraries, 47</i>(11-12), 20.</li>
 			<li>Throgmorton, K. (2016). Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile. <i>American Libraries, 47</i>(6), 42.</li>
 		</ul></p>
-
-
-
-
-</div>
-</div>
-
-</div>
-</section>
-
-</div>
+<p>
+<p>
+</p>
+</p>
