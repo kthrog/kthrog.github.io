@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: "Data — For Everybody."
-description: "A commitment to data access, literacy, and reuse for everybody, through the lens of librarianship."
+description: "data librarian promoting data access and literacy for everybody through teaching, research, and code."
 author: null
 show_tile: false
 ---
