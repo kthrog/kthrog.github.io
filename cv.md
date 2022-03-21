@@ -77,8 +77,10 @@ nav-menu: true
 <!-- ContentThree -->
 <h2 id="ContentThree">Publications</h2>
 		<p><ul>
+			<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. https://doi.org/10.6084/m9.figshare.14781873.v1</li>
+			<li>Throgmorton, K.F. (2021). Applicability of the CDISC clinical data model to support immuno-oncology studies [Conference presentation]. imCORE 4th Scientific Summit (Virtual Edition).</li>
 			<li>Palmer, C.L., Weber, N., Throgmorton, K., & Norlander, B. (2021). Public Libraries and Open Government Data: Partnerships for Progress. <i>Library Journal.</i> <a href="https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress">https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress</a></li>
-			<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2020). Open data in public libraries: Gauging activities and supporting ambitions. <i>Proceedings of the Association for Information Science and Technology, 57</i>(1). <a href="https://doi.org/10.1002/pra2.321">https://doi.org/10.1002/pra2.321</a></li>               
+			<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2020). Open data in public libraries: Gauging activities and supporting ambitions. <i>Proceedings of the Association for Information Science and Technology, 57</i>(1). <a href="https://doi.org/10.1002/pra2.321">https://doi.org/10.1002/pra2.321</a></li> 
 			<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2019). Open Data Literacy and the library. <i>Alki: The Washington Library Association Journal, 35</i>(2), 27–29.</li>
 			<li>Palmer, C.L., Weber, N., Norlander, B., & Throgmorton, K.F. (2019). Advancing open data: Aligning education with public sector data challenges. Poster session presented at iSchool Research Symposium, Seattle, WA.</li>
 			<li>Throgmorton, K. (2017). Open educational resources: Redefining the role of school librarians. <i>American Libraries, 48</i>(9-10), 16.</li>
