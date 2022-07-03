@@ -20,7 +20,7 @@ nav-menu: true
 <!-- ContentOne -->
 <h2 id="ContentOne">Current Work</h2>
 		<p><ul>
-			<li>2021-Present | Data Librarian for the Health Sciences, <i>Yale University</i>.</li>
+			<li>2021-Present | Data Librarian for the Health Sciences, Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 		</ul></p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -50,26 +50,40 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Teaching</h3>
 		<p>
+		<h5>LIBRARY WORKSHOPS</h5>
+			<ul>
+			<li>2022 | Instructor and Course Designer, Getting started with Python: An introduction to programming. Cushing/Whitney Medical Library, <i>Yale University</i>. 
+			<li>2022 | Instructor and Course Designer, Where in the world is the data you need? How to find and reuse data. Cushing/Whitney Medical Library, <i>Yale University</i>.
+			<li>2019 | Volunteer Leader, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
+			<li>2015 | Lead Facilitator, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
+			</ul>
 		<h5>ACADEMIC COURSES</h5>
 			<ul>
 			<li>2021 | Guest Lecture: De-Mystifying Biomedical (Meta)Data, Module 5, Data Curation I, <i>University of Washington, Information School.</i></li> 
 			<li>2021 | Guest Lecture: Beyond Data Standards, Module 4, Data Curation II, <i>University of Washington, Information School.</i></li> 
 			<li>2019 | Teaching Assistant, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
 			</ul>
-		<h5>WORKSHOP</h5>
-			<ul>
-			<li>2019 | Volunteer Leader, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
-			<li>2015 | Lead Facilitator, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
-			</ul>
 		</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Service</h3>
-		<p><ul>
+		<h3>Service, Certifications, & Awards</h3>
+		<p>
+		<h5>SERVICE</h5>	
+		<ul>
+			<li>2022 | Member, Yale NIH Data Sharing & Management Policy Advisory Group, </i>Yale University.</i>
 			<li>2020 | Student Representative, iSchool COVID-19 Response Task Force, <i>University of Washington.</i></li>
 			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington.</i></li>
 			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good.</i></li>
 			</ul>
+		<h5>CERTIFICATIONS</h5>	
+		<ul>
+			<li>Certified [Software Carpentry Instructor](https://carpentries.org/instructors/)</li>
+			<li>Certified [Mental Health First Aider](https://www.mentalhealthfirstaid.org/population-focused-modules/adults/)</li>
+		</ul>
+		<h5>AWARDS</h5>	
+		<ul>
+			<li>Ruth Worden [Faculty Award for Student Excellence](https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020) in Library and Information Science</li>
+		</ul>
 		</p>
 	</div>
 </div>
