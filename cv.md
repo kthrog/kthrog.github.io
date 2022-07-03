@@ -43,7 +43,9 @@ nav-menu: true
     		<li>2010 | BA — English & Spanish, <i>Covenant College</i>.</li>
 		</ul>
 	</div>
+</div>
 	<!-- Break -->
+<div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Teaching</h3>
 
