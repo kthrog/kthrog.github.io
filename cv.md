@@ -79,7 +79,7 @@ nav-menu: true
 		</ul>
 		<strong>AWARDS</strong>
 		<ul>
-			<li><li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science</li></li>
+			<li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science</li>
 		</ul>
 	</div>
 </div>
