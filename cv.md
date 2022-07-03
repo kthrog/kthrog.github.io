@@ -44,6 +44,37 @@ nav-menu: true
 	</div>
 </div>
 		
+<!-- More Experience Section -->
+<h2 id="content">Additional Experience</h2>
+<div class="row">
+	<div class="6u 12u$(small)">
+		<h3>Teaching</h3>
+		<strong>LIBRARY WORKSHOPS</strong>
+		<ul>
+			<li>item 1</li>
+		</ul>
+		<strong>ACADEMIC COURSES</strong>
+		<ul>
+			<li>item 2</li>
+		</ul>
+	</div>
+	<div class="6u 12u$(small)">
+		<h3>Service, Certifications, & Awards</h3>
+		<strong>SERVICE</strong>
+		<ul>
+			<li>item 1</li>
+		</ul>
+		<strong>CERTIFICATIONS</strong>
+		<ul>
+			<li>item 2</li>
+		</ul>
+		<strong>AWARDS</strong>
+		<ul>
+			<li>item 3</li>
+		</ul>
+	</div>
+</div>
+		
 <!-- Two -->
 <h2 id="content">Publications</h2>
 <p>
