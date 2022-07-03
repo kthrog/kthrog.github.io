@@ -51,26 +51,35 @@ nav-menu: true
 		<h3>Teaching</h3>
 		<strong>LIBRARY WORKSHOPS</strong>
 		<ul>
-			<li>item 1</li>
+			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2019 | Volunteer Co-Leader and Co-Designer, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
+			<li>2015 | Lead Facilitator and Course Designer, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem</i>.</li>
 		</ul>
 		<strong>ACADEMIC COURSES</strong>
 		<ul>
-			<li>item 2</li>
+			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>, Module 5, Data Curation I, <i>University of Washington, Information School</i>.</li> 
+			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>, Module 4, Data Curation II, <i>University of Washington, Information School</i>.</li> 
+			<li>2019 | <a href="https://github.com/kthrog/DFW-TA" target="_blank">Teaching Assistant</a>, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
 		</ul>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Service, Certifications, & Awards</h3>
 		<strong>SERVICE</strong>
 		<ul>
-			<li>item 1</li>
+			<li>2022 | Member, Yale NIH Data Management & Sharing Policy Advisory Group, </i>Yale University</i>.</li>
+			<li>2020 | Student Representative, iSchool COVID-19 Response Task Force, <i>University of Washington</i>.</li>
+			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington</i>.</li>
+			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good</i>.</li>
 		</ul>
 		<strong>CERTIFICATIONS</strong>
 		<ul>
-			<li>item 2</li>
+			<li>Certified <a href="https://carpentries.org/instructors/" target="_blank">Software Carpentry Instructor</a></li>
+			<li>Certified <a href="https://www.mentalhealthfirstaid.org/populatifocused-modules/adults/" target="_blank">Mental Health First Aider</a></li>
 		</ul>
 		<strong>AWARDS</strong>
 		<ul>
-			<li>item 3</li>
+			<li><li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science</li></li>
 		</ul>
 	</div>
 </div>
