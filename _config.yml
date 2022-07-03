@@ -18,6 +18,7 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 5
 
 # social settings
+email_url: mailto:kaitlin@kaitlinthrogmorton.com
 500px_url:
 facebook_url:
 github_url: https://github.com/kthrog
