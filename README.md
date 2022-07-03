@@ -1,8 +1,6 @@
 # New website/blog, based on HTML5 UP's Forty Theme (see credits below)
 
-Will update with any changes made to code. 
-
-# Credits
+## Credits
 
 Original README from HTML5 UP:
 
