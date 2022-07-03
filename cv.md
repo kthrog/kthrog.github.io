@@ -54,13 +54,13 @@ nav-menu: true
 			<ul>
 			<li>2022 | Instructor and Course Designer, Getting started with Python: An introduction to programming. Cushing/Whitney Medical Library, <i>Yale University</i>. 
 			<li>2022 | Instructor and Course Designer, Where in the world is the data you need? How to find and reuse data. Cushing/Whitney Medical Library, <i>Yale University</i>.
-			<li>2019 | Volunteer Leader, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
-			<li>2015 | Lead Facilitator, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
+			<li>2019 | Volunteer Co-Leader and Co-Designer, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
+			<li>2015 | Lead Facilitator and Course Designer, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
 			</ul>
 		<h5>ACADEMIC COURSES</h5>
 			<ul>
-			<li>2021 | Guest Lecture: De-Mystifying Biomedical (Meta)Data, Module 5, Data Curation I, <i>University of Washington, Information School.</i></li> 
-			<li>2021 | Guest Lecture: Beyond Data Standards, Module 4, Data Curation II, <i>University of Washington, Information School.</i></li> 
+			<li>2021 | Guest Lecturer (for one session), De-Mystifying Biomedical (Meta)Data, Module 5, Data Curation I, <i>University of Washington, Information School.</i></li> 
+			<li>2021 | Guest Lecturer (for one session), Beyond Data Standards, Module 4, Data Curation II, <i>University of Washington, Information School.</i></li> 
 			<li>2019 | Teaching Assistant, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
 			</ul>
 		</p>
