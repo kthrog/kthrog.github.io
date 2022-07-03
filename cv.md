@@ -16,7 +16,6 @@ nav-menu: true
 		</header>	
 
 <!-- One -->
-<h2 id="content">Download</h2>
 <p><a href="https://www.kaitlinthrogmorton.com/assets/docs/Resume_KaitlinThrogmorton.pdf" target="_blank" class="button icon fa-download">Download Full Resume (PDF)</a></p>
 
 <h2 id="content">Current Work</h2>
