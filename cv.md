@@ -32,16 +32,14 @@ nav-menu: true
 			<li>2015-19 | Owner, Writer, & Editor, <i>Kaitlin Throgmorton, LLC</i>.</li>
 			<li>2011-16 | Communications Specialist & Volunteer Recruiter, <i>North Carolina Guardian ad Litem</i>.</li>
 			<li>2010-11 | Marketing Assistant, <i>Top Flight, Inc</i>.</li>
-			</ul>
-		</p>
+		</ul></p>
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Education</h3>
 		<p><ul>
 			<li>2020 | MLIS — Library & Information Science, <i>University of Washington</i>.</li>
     		<li>2010 | BA — English & Spanish, <i>Covenant College</i>.</li>
-			</ul>
-		</p>
+		</ul></p>
 	</div>
 </div>
 
@@ -51,46 +49,38 @@ nav-menu: true
 		<h3>Teaching</h3>
 		<p>
 		<h5>LIBRARY WORKSHOPS</h5>
-			<ul>
+		<p><ul>
 			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming</a>. Cushing/Whitney Medical Library, <i>Yale University</i>. 
 			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.
 			<li>2019 | Volunteer Co-Leader and Co-Designer, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
 			<li>2015 | Lead Facilitator and Course Designer, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
-			</ul>
-		</p>
-		<p>
+		</ul></p>
 		<h5>ACADEMIC COURSES</h5>
-			<ul>
+		<p><ul>
 			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>, Module 5, Data Curation I, <i>University of Washington, Information School.</i></li> 
 			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>, Module 4, Data Curation II, <i>University of Washington, Information School.</i></li> 
 			<li>2019 | <a href="https://github.com/kthrog/DFW-TA" target="_blank">Teaching Assistant</a>, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
-			</ul>
-		</p>
+		</ul></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Service, Certifications, & Awards</h3>
 		<p>
 		<h5>SERVICE</h5>	
-			<ul>
+		<p><ul>
 			<li>2022 | Member, Yale NIH Data Sharing & Management Policy Advisory Group, </i>Yale University.</i>
 			<li>2020 | Student Representative, iSchool COVID-19 Response Task Force, <i>University of Washington.</i></li>
 			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington.</i></li>
 			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good.</i></li>
-			</ul>
-		</p>
-		<p>
+		</ul></p>
 		<h5>CERTIFICATIONS</h5>	
-			<ul>
+		<p><ul>
 			<li>Certified <a href="https://carpentries.org/instructors/" target="_blank">Software Carpentry Instructor</a></li>
 			<li>Certified <a href="https://www.mentalhealthfirstaid.org/populatifocused-modules/adults/" target="_blank">Mental Health First Aider</a></li>
-			</ul>
-		</p>
-		<p>
+		</ul></p>
 		<h5>AWARDS</h5>	
-			<ul>
+		<p><ul>
 			<li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science</li>
-			</ul>
-		</p>
+		</ul></p>
 	</div>
 </div>
 
@@ -110,6 +100,4 @@ nav-menu: true
 			<li>Throgmorton, K. (2016). Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile. <i>American Libraries, 47</i>(6), 42.</li>
 		</ul></p>
 <p>
-<p>
-</p>
 </p>
