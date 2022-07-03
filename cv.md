@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>CV & Portfolio</h1>
+			<h1>CV</h1>
 		</header>
 	<p>	<a href="https://www.kaitlinthrogmorton.com/assets/docs/Resume_KaitlinThrogmorton.pdf" target="_blank" class="button icon fa-download">Download Full CV (PDF)</a> </p>
 	
