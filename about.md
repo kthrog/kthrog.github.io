@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: About
 description: 
 image: assets/images/plant-ren-ran-unsplash.jpg
