@@ -2,6 +2,7 @@
 layout: post
 title: About
 description: 
+image: assets/images/plant-ren-ran-unsplash.jpg
 nav-menu: true
 ---
 
