@@ -65,7 +65,6 @@ nav-menu: true
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Service, Certifications, & Awards</h3>
-
 		<p><b>SERVICE</b></p>	
 		<ul>
 			<li>2022 | Member, Yale NIH Data Sharing & Management Policy Advisory Group, </i>Yale University.</i>
@@ -73,7 +72,7 @@ nav-menu: true
 			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington.</i></li>
 			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good.</i></li>
 		</ul>
-		<p><b>CERTIFICATIONS</b></b>	
+		<p><b>CERTIFICATIONS</b></p>	
 		<ul>
 			<li>Certified <a href="https://carpentries.org/instructors/" target="_blank">Software Carpentry Instructor</a></li>
 			<li>Certified <a href="https://www.mentalhealthfirstaid.org/populatifocused-modules/adults/" target="_blank">Mental Health First Aider</a></li>
