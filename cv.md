@@ -2,6 +2,7 @@
 layout: page
 title: CV
 description: 
+image: assets/images/type-kristian-strand-unsplash.jpg 
 nav-menu: true
 ---
 
