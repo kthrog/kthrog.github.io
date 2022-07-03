@@ -44,50 +44,55 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-	<!-- Break -->
+<!-- ContentTwo -->
 <div class="row">
 	<div class="4u 12u$(medium)">
 		<h3>Teaching</h3>
 
-		<h5>LIBRARY WORKSHOPS</h5>
+		<p><h5>LIBRARY WORKSHOPS</h5>
 		<ul>
 			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming</a>. Cushing/Whitney Medical Library, <i>Yale University</i>. 
 			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.
 			<li>2019 | Volunteer Co-Leader and Co-Designer, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
 			<li>2015 | Lead Facilitator and Course Designer, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
 		</ul>
-		<h5>ACADEMIC COURSES</h5>
+		</p>
+		<p><h5>ACADEMIC COURSES</h5>
 		<ul>
 			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>, Module 5, Data Curation I, <i>University of Washington, Information School.</i></li> 
 			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>, Module 4, Data Curation II, <i>University of Washington, Information School.</i></li> 
 			<li>2019 | <a href="https://github.com/kthrog/DFW-TA" target="_blank">Teaching Assistant</a>, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
 		</ul>
+		<p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Service, Certifications, & Awards</h3>
 
-		<h5>SERVICE</h5>	
+		<p><h5>SERVICE</h5>	
 		<ul>
 			<li>2022 | Member, Yale NIH Data Sharing & Management Policy Advisory Group, </i>Yale University.</i>
 			<li>2020 | Student Representative, iSchool COVID-19 Response Task Force, <i>University of Washington.</i></li>
 			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington.</i></li>
 			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good.</i></li>
 		</ul>
+		</p>
 
-		<h5>CERTIFICATIONS</h5>	
+		<p><h5>CERTIFICATIONS</h5>	
 		<ul>
 			<li>Certified <a href="https://carpentries.org/instructors/" target="_blank">Software Carpentry Instructor</a></li>
 			<li>Certified <a href="https://www.mentalhealthfirstaid.org/populatifocused-modules/adults/" target="_blank">Mental Health First Aider</a></li>
 		</ul>
-		<h5>AWARDS</h5>	
+		</p>
+		<p><h5>AWARDS</h5>	
 		<ul>
 			<li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science</li>
 		</ul>
+		</p>
 	</div>
 </div>
 
 
-<!-- ContentTwo -->
+<!-- ContentThree -->
 <h2 id="content">Publications</h2>
 		<p><ul>
 			<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. https://doi.org/10.6084/m9.figshare.14781873.v1</li>
