@@ -43,7 +43,6 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
-</section>
 		
 <!-- Two -->
 <h2 id="content">Publications</h2>
@@ -61,9 +60,3 @@ nav-menu: true
 	<li>Throgmorton, K. (2016). A balancing act: Shared spaces in libraries. <i>American Libraries, 47</i>(11-12), 20.</li>
 	<li>Throgmorton, K. (2016). Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile. <i>American Libraries, 47</i>(6), 42.</li>
 	</ul>
-
-
-</div>
-</section>
-
-</div>
