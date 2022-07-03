@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h1>CV & Portfolio</h1>
 		</header>
-	<p>	<a href="https://www.kaitlinthrogmorton.com/Resume_KaitlinThrogmorton_091721.pdf" class="button icon fa-download">Download Full CV (PDF)</a> </p>
+	<p>	<a href="https://www.kaitlinthrogmorton.com/assets/docs/Resume_KaitlinThrogmorton.pdf" class="button icon fa-download">Download Full CV (PDF)</a> </p>
 	
 
 <!-- ContentOne -->
