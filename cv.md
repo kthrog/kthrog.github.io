@@ -45,32 +45,32 @@ nav-menu: true
 </div>
 		
 <!-- More Experience Section -->
-<h2 id="content">Additional Experience</h2>
+<h3 id="content">Additional Experience</h3>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Teaching</h3>
+		<h4>Teaching</h4>
 		<strong>LIBRARY WORKSHOPS</strong>
 		<ul>
-			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2019 | Volunteer Co-Leader and Co-Designer, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
-			<li>2015 | Lead Facilitator and Course Designer, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem</i>.</li>
+			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2019 | Volunteer Co-Leader and Co-Designer. Arduino Co-Design Session: Solving Everyday Problems with Arduino. <i>Seattle Public Library</i>.</li>
+			<li>2015 | Lead Facilitator and Course Designer. Volunteers Recruiting Volunteers. <i>North Carolina Guardian ad Litem</i>.</li>
 		</ul>
 		<strong>ACADEMIC COURSES</strong>
 		<ul>
-			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>, Module 5, Data Curation I, <i>University of Washington, Information School</i>.</li> 
-			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>, Module 4, Data Curation II, <i>University of Washington, Information School</i>.</li> 
-			<li>2019 | <a href="https://github.com/kthrog/DFW-TA" target="_blank">Teaching Assistant</a>, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
+			<li>2021 | Guest Lecturer (for one session). <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>. Module 5, Data Curation I. <i>University of Washington, Information School</i>.</li> 
+			<li>2021 | Guest Lecturer (for one session). <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>. Module 4, Data Curation II. <i>University of Washington, Information School</i>.</li> 
+			<li>2019 | <a href="https://github.com/kthrog/DFW-TA" target="_blank">Teaching Assistant</a>. Information Literacy for Health Sciences. <i>Seattle Central College</i>.</li>
 		</ul>
 	</div>
 	<div class="6u 12u$(small)">
-		<h3>Service, Certifications, & Awards</h3>
+		<h4>Service, Certifications, & Awards</h4>
 		<strong>SERVICE</strong>
 		<ul>
-			<li>2022 | Member, Yale NIH Data Management & Sharing Policy Advisory Group, </i>Yale University</i>.</li>
-			<li>2020 | Student Representative, iSchool COVID-19 Response Task Force, <i>University of Washington</i>.</li>
-			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington</i>.</li>
-			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good</i>.</li>
+			<li>2022 | Member. Yale NIH Data Management & Sharing Policy Advisory Group. </i>Yale University</i>.</li>
+			<li>2020 | Student Representative (Volunteer). iSchool COVID-19 Response Task Force. <i>University of Washington</i>.</li>
+			<li>2019-20 | Co-President (Volunteer). Association of Library and Information Science Students (ALISS). <i>University of Washington</i>.</li>
+			<li>2011-2016 | Marketing Team Member (Volunteer). <i>Activate Good</i>.</li>
 		</ul>
 		<strong>CERTIFICATIONS</strong>
 		<ul>
@@ -79,7 +79,7 @@ nav-menu: true
 		</ul>
 		<strong>AWARDS</strong>
 		<ul>
-			<li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science</li>
+			<li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science. <i>University of Washington</i>.</li>
 		</ul>
 	</div>
 </div>
