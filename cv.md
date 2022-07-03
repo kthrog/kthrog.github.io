@@ -8,14 +8,15 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
+<!-- Header -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>CV</h1>
 		</header>	
 
-<!-- ContentOne -->
+<!-- One -->
+<section id="two">
 <h2 id="content">Download</h2>
 <p><a href="https://www.kaitlinthrogmorton.com/assets/docs/Resume_KaitlinThrogmorton.pdf" target="_blank" class="button icon fa-download">Download Full Resume (PDF)</a></p>
 
@@ -44,49 +45,51 @@ nav-menu: true
 		</ul>
 	</div>
 </div>
+</section>
 		
-<!-- ContentTwo -->
+<!-- Two -->
+<section id="three">
 <div class="row">
-<div class="4u 12u$(medium)">
+	<div class="6u 12u$(small)">
 		<h3>Teaching</h3>
-		<p><b>LIBRARY WORKSHOPS</b></p>
+		<p>LIBRARY WORKSHOPS</p>
 		<ul>
 			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming</a>. Cushing/Whitney Medical Library, <i>Yale University</i>. 
 			<li>2022 | Instructor and Course Designer, <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.
 			<li>2019 | Volunteer Co-Leader and Co-Designer, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
 			<li>2015 | Lead Facilitator and Course Designer, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
 		</ul>
-		<p>
-		<p><b>ACADEMIC COURSES</b></p>
+		<p>ACADEMIC COURSES</p>
 		<ul>
-			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>, Module 5, Data Curation I, <i>University of Washington, Information School.</i></li> 
-			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>, Module 4, Data Curation II, <i>University of Washington, Information School.</i></li> 
+			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>, Module 5, Data Curation I, <i>University of Washington, Information School</i>.</li> 
+			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>, Module 4, Data Curation II, <i>University of Washington, Information School</i>.</li> 
 			<li>2019 | <a href="https://github.com/kthrog/DFW-TA" target="_blank">Teaching Assistant</a>, Information Literacy for Health Sciences, <i>Seattle Central College</i>.</li>
 		</ul>
 	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(small)">
 		<h3>Service, Certifications, & Awards</h3>
-		<p><b>SERVICE</b></p>	
+		<p>SERVICE</p>	
 		<ul>
-			<li>2022 | Member, Yale NIH Data Sharing & Management Policy Advisory Group, </i>Yale University.</i>
+			<li>2022 | Member, Yale NIH Data Sharing & Management Policy Advisory Group, <i>Yale University.</i></li>
 			<li>2020 | Student Representative, iSchool COVID-19 Response Task Force, <i>University of Washington.</i></li>
 			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington.</i></li>
 			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good.</i></li>
 		</ul>
-		<p><b>CERTIFICATIONS</b></p>	
+		<p>CERTIFICATIONS</p>	
 		<ul>
 			<li>Certified <a href="https://carpentries.org/instructors/" target="_blank">Software Carpentry Instructor</a></li>
 			<li>Certified <a href="https://www.mentalhealthfirstaid.org/populatifocused-modules/adults/" target="_blank">Mental Health First Aider</a></li>
 		</ul>
-		<p><b>AWARDS</b></p>	
+		<p>AWARDS</p>	
 		<ul>
 			<li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science</li>
 		</ul>
 	</div>
 </div>
+</section>
 
-
-<!-- ContentThree -->
+<!-- Three -->
+<section id="four">
 <h2 id="content">Publications</h2>
 	<p><ul>
 		<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. https://doi.org/10.6084/m9.figshare.14781873.v1</li>
@@ -101,7 +104,7 @@ nav-menu: true
 		<li>Throgmorton, K. (2016). A balancing act: Shared spaces in libraries. <i>American Libraries, 47</i>(11-12), 20.</li>
 		<li>Throgmorton, K. (2016). Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile. <i>American Libraries, 47</i>(6), 42.</li>
 		</ul></p>
-
+</section>
 
 
 </div>
