@@ -57,6 +57,8 @@ nav-menu: true
 			<li>2019 | Volunteer Co-Leader and Co-Designer, Arduino Co-Design Session: Solving Everyday Problems with Arduino, <i>Seattle Public Library</i>.</li>
 			<li>2015 | Lead Facilitator and Course Designer, Volunteers Recruiting Volunteers, <i>North Carolina Guardian ad Litem.</i></li>
 			</ul>
+		</p>
+		<p>
 		<h5>ACADEMIC COURSES</h5>
 			<ul>
 			<li>2021 | Guest Lecturer (for one session), <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>, Module 5, Data Curation I, <i>University of Washington, Information School.</i></li> 
@@ -69,21 +71,25 @@ nav-menu: true
 		<h3>Service, Certifications, & Awards</h3>
 		<p>
 		<h5>SERVICE</h5>	
-		<ul>
+			<ul>
 			<li>2022 | Member, Yale NIH Data Sharing & Management Policy Advisory Group, </i>Yale University.</i>
 			<li>2020 | Student Representative, iSchool COVID-19 Response Task Force, <i>University of Washington.</i></li>
 			<li>2019-20 | Co-President, Association of Library and Information Science Students (ALISS), <i>University of Washington.</i></li>
 			<li>2011-2016 | Marketing Team Member Volunteer, <i>Activate Good.</i></li>
 			</ul>
+		</p>
+		<p>
 		<h5>CERTIFICATIONS</h5>	
-		<ul>
+			<ul>
 			<li>Certified <a href="https://carpentries.org/instructors/" target="_blank">Software Carpentry Instructor</a></li>
 			<li>Certified <a href="https://www.mentalhealthfirstaid.org/populatifocused-modules/adults/" target="_blank">Mental Health First Aider</a></li>
-		</ul>
+			</ul>
+		</p>
+		<p>
 		<h5>AWARDS</h5>	
-		<ul>
+			<ul>
 			<li>Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science</li>
-		</ul>
+			</ul>
 		</p>
 	</div>
 </div>
