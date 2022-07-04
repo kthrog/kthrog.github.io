@@ -59,8 +59,8 @@ nav-menu: true
 		</ul>
 		<strong>ACADEMIC COURSES</strong>
 		<ul>
-			<li>2021 | Guest Lecturer (for one session). <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>. Module 5, Data Curation I. <i>University of Washington, Information School</i>.</li> 
-			<li>2021 | Guest Lecturer (for one session). <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>. Module 4, Data Curation II. <i>University of Washington, Information School</i>.</li> 
+			<li>2021 | Guest Lecturer (for one session). <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>. Module 5, Data Curation I. <i>University of Washington</i>.</li> 
+			<li>2021 | Guest Lecturer (for one session). <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>. Module 4, Data Curation II. <i>University of Washington</i>.</li> 
 			<li>2019 | <a href="https://github.com/kthrog/DFW-TA" target="_blank">Teaching Assistant</a>. Information Literacy for Health Sciences. <i>Seattle Central College</i>.</li>
 		</ul>
 	</div>
@@ -68,7 +68,7 @@ nav-menu: true
 		<h4>Service, Certifications, & Awards</h4>
 		<strong>SERVICE</strong>
 		<ul>
-			<li>2022 | Member. Yale NIH Data Management & Sharing Policy Advisory Group. </i>Yale University</i>.</li>
+			<li>2022 | Member. Yale NIH Data Management & Sharing Policy Advisory Group. <i>Yale University</i>.</li>
 			<li>2020 | Student Representative (Volunteer). iSchool COVID-19 Response Task Force. <i>University of Washington</i>.</li>
 			<li>2019-20 | Co-President (Volunteer). Association of Library and Information Science Students (ALISS). <i>University of Washington</i>.</li>
 			<li>2011-2016 | Marketing Team Member (Volunteer). <i>Activate Good</i>.</li>
