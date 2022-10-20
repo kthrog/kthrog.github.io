@@ -89,7 +89,7 @@ nav-menu: true
 <h2 id="content">Publications</h2>
 <p>
 	<ul>
-	<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. <a href="https://doi.org/10.6084/m9.figshare.14781873.v1" target="_blank">https://doi.org/10.6084/m9.figshare.14781873.v1</a></li>
+	<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. NF Virtual Conference. <a href="https://doi.org/10.6084/m9.figshare.14781873.v1" target="_blank">https://doi.org/10.6084/m9.figshare.14781873.v1</a></li>
 	<li>Throgmorton, K.F. (2021). Applicability of the CDISC clinical data model to support immuno-oncology studies [Conference presentation]. imCORE 4th Scientific Summit (Virtual Edition).</li>
 	<li>Palmer, C.L., Weber, N., Throgmorton, K., & Norlander, B. (2021). <a href="https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress">Public Libraries and Open Government Data: Partnerships for Progress</a>. <i>Library Journal.</i></li>
 	<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2020). Open data in public libraries: Gauging activities and supporting ambitions. <i>Proceedings of the Association for Information Science and Technology, 57</i>(1). <a href="https://doi.org/10.1002/pra2.321">https://doi.org/10.1002/pra2.321</a></li> 
