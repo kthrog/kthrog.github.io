@@ -17,7 +17,7 @@ nav-menu: true
 		</header>	
 
 <!-- One -->
-<p><a href="https://www.kaitlinthrogmorton.com/assets/docs/Resume_KaitlinThrogmorton.pdf" target="_blank" class="button icon fa-download">Download Full Resume (PDF)</a></p>
+<p><a href="https://www.kaitlinthrogmorton.com/assets/docs/Resume_KaitlinThrogmorton_2022.pdf" target="_blank" class="button icon fa-download">Download Full Resume (PDF)</a></p>
 
 <h2 id="content">Current Work</h2>
 		<ul>
