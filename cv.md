@@ -69,6 +69,7 @@ nav-menu: true
 		<h4>Service, Certifications, & Awards</h4>
 		<strong>SERVICE</strong>
 		<ul>
+			<li>2022-Present | Member. Editorial Board. <i><a href="https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=wmrs20" target="_blank">Medical Reference Services Quarterly</a></i>.</li>
 			<li>2022 | Member. Yale NIH Data Management & Sharing Policy Advisory Group. <i>Yale University</i>.</li>
 			<li>2020 | Student Representative (Volunteer). iSchool COVID-19 Response Task Force. <i>University of Washington</i>.</li>
 			<li>2019-20 | Co-President (Volunteer). Association of Library and Information Science Students (ALISS). <i>University of Washington</i>.</li>
