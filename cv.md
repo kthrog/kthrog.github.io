@@ -80,7 +80,7 @@ nav-menu: true
 		</ul>
 		<strong>CERTIFICATIONS</strong>
 		<ul>
-			<li>2022 | Certified <a href="https://carpentries.org/instructors/" target="_blank">Software Carpentry Instructor</a></li>
+			<li>2022 | Certified <a href="https://carpentries.org/instructors/" target="_blank">Carpentries Instructor</a></li>
 			<li>2022 | Certified <a href="https://www.mentalhealthfirstaid.org/populatifocused-modules/adults/" target="_blank">Mental Health First Aider</a></li>
 		</ul>
 		<strong>AWARDS</strong>
