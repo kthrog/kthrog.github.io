@@ -52,17 +52,20 @@ nav-menu: true
 		<h4>Teaching</h4>
 		<strong>LIBRARY WORKSHOPS</strong>
 		<ul>
-			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9721060" target="_blank"> Analyzing and visualizing data with Python: An introduction to numpy and matplotlib (Python, Part 2) </a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9721060" target="_blank"> Analyzing and visualizing data with Python: An introduction to numpy and matplotlib (Python, Part 2)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming (Python, Part 1)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2019 | Volunteer Co-Leader and Co-Designer. Arduino Co-Design Session: Solving Everyday Problems with Arduino. <i>Seattle Public Library</i>.</li>
-			<li>2015 | Lead Facilitator and Course Designer. Volunteers Recruiting Volunteers. <i>North Carolina Guardian ad Litem</i>.</li>
 		</ul>
 		<strong>ACADEMIC COURSES</strong>
 		<ul>
 			<li>2021 | Guest Lecturer (for one session). <a href="https://github.com/kthrog/LIS-545-guest-lecture" target="_blank">De-Mystifying Biomedical (Meta)Data</a>. Module 5, Data Curation I. <i>University of Washington</i>.</li> 
 			<li>2021 | Guest Lecturer (for one session). <a href="https://github.com/kthrog/LIS-546-guest-lecture" target="_blank">Beyond Data Standards</a>. Module 4, Data Curation II. <i>University of Washington</i>.</li> 
 			<li>2019 | <a href="https://github.com/kthrog/DFW-TA" target="_blank">Teaching Assistant</a>. Information Literacy for Health Sciences. <i>Seattle Central College</i>.</li>
+		</ul>
+		<strong>OTHER WORKSHOPS</strong>
+		<ul>
+			<li>2015 | Lead Facilitator and Course Designer. Volunteers Recruiting Volunteers. <i>North Carolina Guardian ad Litem</i>.</li>
 		</ul>
 	</div>
 	<div class="6u 12u$(small)">
