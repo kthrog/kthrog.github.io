@@ -95,9 +95,6 @@ nav-menu: true
 <p>
 	<ul>
 	<li>Festa, N., Heaphy, N. M., Throgmorton, K. F., Canavan, M., & Gill, T. M. (2022). Evaluating California nursing homes' emergency preparedness for wildfire exposure. Journal of the American Geriatrics Society, 10.1111/jgs.18142. Advance online publication. <a href="https://doi.org/10.1111/jgs.18142" target="blank">https://doi.org/10.1111/jgs.18142</a></li>
-	<li>Fertuzinhos, S., Throgmorton, K.F., & Garcia-Milian, R. (2022). Making waves on instruction format: Re-designing stand-alone workshops into a contextualized and collaborative training series: a case study [Poster]. North Atlantic Health Sciences Libraries Conference, Portland, ME.</li>	
-	<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. NF Virtual Conference. <a href="https://doi.org/10.6084/m9.figshare.14781873.v1" target="_blank">https://doi.org/10.6084/m9.figshare.14781873.v1</a></li>
-	<li>Throgmorton, K.F. (2021). Applicability of the CDISC clinical data model to support immuno-oncology studies [Conference presentation]. imCORE 4th Scientific Summit (Virtual Edition).</li>
 	<li>Palmer, C.L., Weber, N., Throgmorton, K., & Norlander, B. (2021). <a href="https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress" target="_blank">Public Libraries and Open Government Data: Partnerships for Progress</a>. <i>Library Journal.</i></li>
 	<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2020). Open data in public libraries: Gauging activities and supporting ambitions. <i>Proceedings of the Association for Information Science and Technology, 57</i>(1). <a href="https://doi.org/10.1002/pra2.321" target="_blank">https://doi.org/10.1002/pra2.321</a></li> 
 	<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2019). <a href="https://wala.memberclicks.net/assets/Alki/Alki_July_2019_FINAL.pdf" target="_blank">Open Data Literacy and the library</a>. <i>Alki: The Washington Library Association Journal, 35</i>(2), 27–29.</li>
@@ -108,3 +105,13 @@ nav-menu: true
 	<li>Throgmorton, K. (2016). <a href="https://americanlibrariesmagazine.org/2016/11/01/balancing-act-shared-spaces-libraries/" target="_blank">A balancing act: Shared spaces in libraries</a>. <i>American Libraries, 47</i>(11-12), 20.</li>
 	<li>Throgmorton, K. (2016). <a href="https://americanlibrariesmagazine.org/2016/05/31/recruiting-retaining-library-volunteers/" target="_blank">Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile</a>. <i>American Libraries, 47</i>(6), 42.</li>
 	</ul>
+		
+		
+<h2 id="content">Other Works</h2>
+<p>
+	<ul>
+	<li>Fertuzinhos, S., Throgmorton, K.F., & Garcia-Milian, R. (2022). Making waves on instruction format: Re-designing stand-alone workshops into a contextualized and collaborative training series: a case study [Poster]. North Atlantic Health Sciences Libraries Conference, Portland, ME.</li>
+	<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. NF Virtual Conference. <a href="https://doi.org/10.6084/m9.figshare.14781873.v1" target="_blank">https://doi.org/10.6084/m9.figshare.14781873.v1</a></li>
+	<li>Throgmorton, K.F. (2021). Applicability of the CDISC clinical data model to support immuno-oncology studies [Conference presentation]. imCORE 4th Scientific Summit (Virtual Edition).</li>
+	</ul>
+
