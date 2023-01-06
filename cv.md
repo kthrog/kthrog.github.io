@@ -94,6 +94,7 @@ nav-menu: true
 <h2 id="content">Publications</h2>
 <p>
 	<ul>
+	<li>Festa, N., Throgmorton, K. F., Heaphy, N. M., Canavan, M., & Gill, T. M. (2023). Association of nursing home exposure to hurricane-related inundation with emergency preparedness. <i>JAMA Network Open 6</i>(1):e2249937. <a href="https://jama.jamanetwork.com/article.aspx?doi=10.1001/jamanetworkopen.2022.49937" target="_blank">https://doi.org/10.1001/jamanetworkopen.2022.49937</a></li>
 	<li>Festa, N., Heaphy, N. M., Throgmorton, K. F., Canavan, M., & Gill, T. M. (2022). Evaluating California nursing homes' emergency preparedness for wildfire exposure. Journal of the American Geriatrics Society, 10.1111/jgs.18142. Advance online publication. <a href="https://doi.org/10.1111/jgs.18142" target="blank">https://doi.org/10.1111/jgs.18142</a></li>
 	<li>Palmer, C.L., Weber, N., Throgmorton, K., & Norlander, B. (2021). <a href="https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress" target="_blank">Public Libraries and Open Government Data: Partnerships for Progress</a>. <i>Library Journal.</i></li>
 	<li>Throgmorton, K.F., Norlander, B., & Palmer, C.L. (2020). Open data in public libraries: Gauging activities and supporting ambitions. <i>Proceedings of the Association for Information Science and Technology, 57</i>(1). <a href="https://doi.org/10.1002/pra2.321" target="_blank">https://doi.org/10.1002/pra2.321</a></li> 
