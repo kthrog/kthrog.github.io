@@ -106,6 +106,13 @@ nav-menu: true
 	<li>Throgmorton, K. (2016). <a href="https://americanlibrariesmagazine.org/2016/05/31/recruiting-retaining-library-volunteers/" target="_blank">Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile</a>. <i>American Libraries, 47</i>(6), 42.</li>
 	</ul>
 		
+
+<h2 id="content">Media Coverage of Research</h2>
+<p>
+	<ul>
+	<li>Udasin, S. (2022). California nursing homes in high-risk wildfire zones are ill-prepared for emergencies: study. <i>The Hill</i>. <a href="https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/" target="_blank">https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/</a></li>
+	</ul>
+		
 		
 <h2 id="content">Other Works</h2>
 <p>
