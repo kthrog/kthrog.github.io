@@ -110,6 +110,7 @@ nav-menu: true
 <h2 id="content">Press & Media Coverage</h2>
 <p>
 	<ul>
+	<li>Marselas, K & Towhey, J. (2023).  Climate threats grow but many nursing homes don’t know: Yale. <i>McKnight's.</i> <a href="" target="_blank">https://www.mcknights.com/news/climate-threats-grow-but-many-nursing-homes-dont-know-yale/</a> </li>
 	<li>Backman, I. (2023). Many At-risk Coastal Nursing Homes Are Underprepared for Hurricanes, Yale Study Finds. <i>Yale School of Medicine News.</i> <a href="https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/" target="_blank">https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/</a></li>
 	<li>Udasin, S. (2022). California nursing homes in high-risk wildfire zones are ill-prepared for emergencies: study. <i>The Hill</i>. <a href="https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/" target="_blank">https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/</a></li>
 	</ul>
