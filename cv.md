@@ -119,10 +119,10 @@ nav-menu: true
 <h2 id="content">Other Works</h2>
 <p>
 	<ul>
+	<li>Throgmorton, K.F. (2023). Walk the talk: Turning research data theory into practice [Conference presentation]. Research Data Access and Preservation (RDAP) Summit, Virtual. <a href="https://doi.org/10.17605/OSF.IO/B2UYG" target="_blank">https://doi.org/10.17605/OSF.IO/B2UYG</a></li>	
 	<li>Throgmorton, K.F., Festa, N., Doering, M., Carpenter, C., & Gill, T.M. (2023). Enhancing Your Research: How to Collaborate Effectively with Medical and Data Librarians [Webinar]. CLIN-STAR Coordinating Center (Virtual). 
 	<li>Fertuzinhos, S., Throgmorton, K.F., & Garcia-Milian, R. (2022). Making waves on instruction format: Re-designing stand-alone workshops into a contextualized and collaborative training series: a case study [Poster]. North Atlantic Health Sciences Libraries Conference, Portland, ME. <a href="https://doi.org/10.6084/m9.figshare.21842364.v1" target="_blank">https://doi.org/10.6084/m9.figshare.21842364.v1</a></li>
 	<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. NF Virtual Conference. <a href="https://doi.org/10.6084/m9.figshare.14781873.v1" target="_blank">https://doi.org/10.6084/m9.figshare.14781873.v1</a></li>
 	<li>Throgmorton, K.F. (2021). Applicability of the CDISC clinical data model to support immuno-oncology studies [Conference presentation]. imCORE 4th Scientific Summit (Virtual Edition).</li>
 	<li>Palmer, C.L., Weber, N., Norlander, B., & Throgmorton, K.F. (2019). Advancing open data: Aligning education with public sector data challenges [Poster]. iSchool Research Symposium, Seattle, WA.</li>
-	</ul>
 
