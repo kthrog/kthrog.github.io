@@ -106,23 +106,25 @@ nav-menu: true
 	<li>Throgmorton, K. (2016). <a href="https://americanlibrariesmagazine.org/2016/05/31/recruiting-retaining-library-volunteers/" target="_blank">Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile</a>. <i>American Libraries, 47</i>(6), 42.</li>
 	</ul>
 		
-
-<h2 id="content">Press & Media Coverage</h2>
-<p>
-	<ul>
-	<li>Marselas, K & Towhey, J. (2023).  Climate threats grow but many nursing homes don’t know: Yale. <i>McKnight's.</i> <a href="https://www.mcknights.com/news/climate-threats-grow-but-many-nursing-homes-dont-know-yale/" target="_blank">https://www.mcknights.com/news/climate-threats-grow-but-many-nursing-homes-dont-know-yale/</a></li>
-	<li>Backman, I. (2023). Many at-risk coastal nursing homes are underprepared for hurricanes, Yale study finds. <i>Yale School of Medicine News.</i> <a href="https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/" target="_blank">https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/</a></li>
-	<li>Udasin, S. (2022). California nursing homes in high-risk wildfire zones are ill-prepared for emergencies: study. <i>The Hill</i>. <a href="https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/" target="_blank">https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/</a></li>
-	</ul>
-		
 		
 <h2 id="content">Other Works</h2>
 <p>
 	<ul>
+	<li>Festa, N., Throgmorton, K.F., Plourde, K., & Gill, T.M. (2023). Nursing Home Wildfire Exposure and Preparedness [Poster]. American Geriatrics Society (AGS) Conference, Long Beach, CA.</li>
 	<li>Throgmorton, K.F. (2023). Walk the talk: Turning research data theory into practice [Conference presentation]. Research Data Access and Preservation (RDAP) Summit (Virtual). <a href="https://doi.org/10.17605/OSF.IO/B2UYG" target="_blank">https://doi.org/10.17605/OSF.IO/B2UYG</a></li>
 	<li>Throgmorton, K.F., Festa, N., Doering, M., Carpenter, C., & Gill, T.M. (2023). Enhancing your research: How to collaborate effectively with medical and data librarians [Webinar]. CLIN-STAR Coordinating Center (Virtual). <a href="https://clin-star.org/clin-star-webinar-librarian-2023" target="_blank">https://clin-star.org/clin-star-webinar-librarian-2023</a>
 	<li>Fertuzinhos, S., Throgmorton, K.F., & Garcia-Milian, R. (2022). Making waves on instruction format: Re-designing stand-alone workshops into a contextualized and collaborative training series: a case study [Poster]. North Atlantic Health Sciences Libraries (NAHSL) Conference, Portland, ME. <a href="https://doi.org/10.6084/m9.figshare.21842364.v1" target="_blank">https://doi.org/10.6084/m9.figshare.21842364.v1</a></li>
 	<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. NF Conference (Virtual). <a href="https://doi.org/10.6084/m9.figshare.14781873.v1" target="_blank">https://doi.org/10.6084/m9.figshare.14781873.v1</a></li>
 	<li>Throgmorton, K.F. (2021). Applicability of the CDISC clinical data model to support immuno-oncology studies [Conference presentation]. imCORE 4th Scientific Summit (Virtual).</li>
 	<li>Palmer, C.L., Weber, N., Norlander, B., & Throgmorton, K.F. (2019). Advancing open data: Aligning education with public sector data challenges [Poster]. iSchool Research Symposium, Seattle, WA.</li>
+		
+<h2 id="content">Press, Media, & Government Featuring of Work</h2>
+<p>
+	<ul>
+	<li>U.S. Senate Finance Committee & U.S. Special Committee on Aging Majority Staffs. (2023). Left in the Dark: The impact of the 2021 Texas Blackout on Long-Term Care Residents and the Need to Improve Emergency Preparedness [PDF]. United States Senate Committee on Finance Newsroom. https://www.finance.senate.gov/imo/media/doc/02222023%20Left%20in%20the%20Dark%20-%20Wyden-Casey%20final.pdf</li>
+	<li>Marselas, K & Towhey, J. (2023).  Climate threats grow but many nursing homes don’t know: Yale. <i>McKnight's.</i> <a href="https://www.mcknights.com/news/climate-threats-grow-but-many-nursing-homes-dont-know-yale/" target="_blank">https://www.mcknights.com/news/climate-threats-grow-but-many-nursing-homes-dont-know-yale/</a></li>
+	<li>Backman, I. (2023). Many at-risk coastal nursing homes are underprepared for hurricanes, Yale study finds. <i>Yale School of Medicine News.</i> <a href="https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/" target="_blank">https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/</a></li>
+	<li>Udasin, S. (2022). California nursing homes in high-risk wildfire zones are ill-prepared for emergencies: study. <i>The Hill</i>. <a href="https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/" target="_blank">https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/</a></li>
+	</ul>
+		
 
