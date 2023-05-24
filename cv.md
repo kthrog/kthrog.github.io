@@ -117,8 +117,10 @@ nav-menu: true
 	<li>Allaway, R., Banerjee, J., Throgmorton, K., Guinney, J., & NF Open Science Initiative Consortium. (2021). Three years later: the NF Data Portal in 2021 [Poster]. NF Conference (Virtual). <a href="https://doi.org/10.6084/m9.figshare.14781873.v1" target="_blank">https://doi.org/10.6084/m9.figshare.14781873.v1</a></li>
 	<li>Throgmorton, K.F. (2021). Applicability of the CDISC clinical data model to support immuno-oncology studies [Conference presentation]. imCORE 4th Scientific Summit (Virtual).</li>
 	<li>Palmer, C.L., Weber, N., Norlander, B., & Throgmorton, K.F. (2019). Advancing open data: Aligning education with public sector data challenges [Poster]. iSchool Research Symposium, Seattle, WA.</li>
+	</ul>
+<p>
 		
-<h2 id="content">Press, Media, & Government Featuring of Work</h2>
+<h2 id="content">Press & Government Reporting on Work</h2>
 <p>
 	<ul>
 	<li>U.S. Senate Finance Committee & U.S. Special Committee on Aging Majority Staffs. (2023). Left in the Dark: The impact of the 2021 Texas Blackout on Long-Term Care Residents and the Need to Improve Emergency Preparedness [PDF]. United States Senate Committee on Finance Newsroom. https://www.finance.senate.gov/imo/media/doc/02222023%20Left%20in%20the%20Dark%20-%20Wyden-Casey%20final.pdf</li>
@@ -126,5 +128,3 @@ nav-menu: true
 	<li>Backman, I. (2023). Many at-risk coastal nursing homes are underprepared for hurricanes, Yale study finds. <i>Yale School of Medicine News.</i> <a href="https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/" target="_blank">https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/</a></li>
 	<li>Udasin, S. (2022). California nursing homes in high-risk wildfire zones are ill-prepared for emergencies: study. <i>The Hill</i>. <a href="https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/" target="_blank">https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/</a></li>
 	</ul>
-		
-
