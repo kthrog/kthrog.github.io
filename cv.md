@@ -52,6 +52,7 @@ nav-menu: true
 		<h4>Teaching</h4>
 		<strong>LIBRARY WORKSHOPS</strong>
 		<ul>
+			<li>2023 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Where Are You Going to Put That?: How to Share Data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9721060" target="_blank"> Analyzing and visualizing data with Python: An introduction to numpy and matplotlib (Python, Part 2)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming (Python, Part 1)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
@@ -75,7 +76,7 @@ nav-menu: true
 			<li>2022-Present | Member. Editorial Board. <i><a href="https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=wmrs20" target="_blank">Medical Reference Services Quarterly</a></i>.</li>
 			<li>2022 | Member. Yale NIH Data Management & Sharing Policy Advisory Group. <i>Yale University</i>.</li>
 			<li>2020 | Student Representative (Volunteer). iSchool COVID-19 Response Task Force. <i>University of Washington</i>.</li>
-			<li>2019-20 | Co-President (Volunteer). Association of Library and Information Science Students (ALISS). <i>University of Washington</i>.</li>
+			<li>2019-2020 | Co-President (Volunteer). Association of Library and Information Science Students (ALISS). <i>University of Washington</i>.</li>
 			<li>2011-2016 | Marketing Team Member (Volunteer). <i>Activate Good</i>.</li>
 		</ul>
 		<strong>CERTIFICATIONS</strong>
@@ -123,7 +124,7 @@ nav-menu: true
 <h2 id="content">Press & Government Reporting on Work</h2>
 <p>
 	<ul>
-	<li>U.S. Senate Finance Committee & U.S. Special Committee on Aging Majority Staffs. (2023). Left in the Dark: The impact of the 2021 Texas Blackout on Long-Term Care Residents and the Need to Improve Emergency Preparedness [PDF]. United States Senate Committee on Finance Newsroom. <a href="https://www.finance.senate.gov/imo/media/doc/02222023%20Left%20in%20the%20Dark%20-%20Wyden-Casey%20final.pdf" target="_blank">https://www.finance.senate.gov/imo/media/doc/02222023%20Left%20in%20the%20Dark%20-%20Wyden-Casey%20final.pdf</a></li>
+	<li>U.S. Senate Finance Committee & U.S. Special Committee on Aging Majority Staffs. (2023). Left in the dark: The impact of the 2021 Texas blackout on long-term care residents and the need to improve emergency preparedness. United States Senate Committee on Finance Newsroom. <a href="https://www.finance.senate.gov/imo/media/doc/02222023%20Left%20in%20the%20Dark%20-%20Wyden-Casey%20final.pdf" target="_blank">https://www.finance.senate.gov/imo/media/doc/02222023%20Left%20in%20the%20Dark%20-%20Wyden-Casey%20final.pdf</a></li>
 	<li>Marselas, K & Towhey, J. (2023).  Climate threats grow but many nursing homes don’t know: Yale. <i>McKnight's.</i> <a href="https://www.mcknights.com/news/climate-threats-grow-but-many-nursing-homes-dont-know-yale/" target="_blank">https://www.mcknights.com/news/climate-threats-grow-but-many-nursing-homes-dont-know-yale/</a></li>
 	<li>Backman, I. (2023). Many at-risk coastal nursing homes are underprepared for hurricanes, Yale study finds. <i>Yale School of Medicine News.</i> <a href="https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/" target="_blank">https://medicine.yale.edu/news-article/many-at-risk-coastal-nursing-homes-are-underprepared-for-hurricanes-yale-study-finds/</a></li>
 	<li>Udasin, S. (2022). California nursing homes in high-risk wildfire zones are ill-prepared for emergencies: study. <i>The Hill</i>. <a href="https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/" target="_blank">https://thehill.com/policy/equilibrium-sustainability/3783736-california-nursing-homes-in-high-risk-wildfire-zones-are-ill-prepared-for-emergencies-study/</a></li>
