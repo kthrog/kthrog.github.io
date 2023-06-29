@@ -95,6 +95,7 @@ nav-menu: true
 <h2 id="content">Publications</h2>
 <p>
 	<ul>
+	<li>Festa, N., Throgmorton, K. F., Davis-Plourde, K., Dosa, D. M., Chen, K., Zang, E., Kelly, J., & Gill, T. M. (2023). Assessment of Regional Nursing Home Preparedness for and Regulatory Responsiveness to Wildfire Risk in the Western US. <i>JAMA Network Open, 6</i>i(6), e2320207. <a href="https://doi.org/10.1001/jamanetworkopen.2023.20207" target="_blank">https://doi.org/10.1001/jamanetworkopen.2023.20207</a>a</li>
 	<li>Festa, N., Throgmorton, K. F., Heaphy, N. M., Canavan, M., & Gill, T. M. (2023). Association of nursing home exposure to hurricane-related inundation with emergency preparedness. <i>JAMA Network Open 6</i>(1):e2249937. <a href="https://doi.org/10.1001/jamanetworkopen.2022.49937" target="_blank">https://doi.org/10.1001/jamanetworkopen.2022.49937</a></li>
 	<li>Festa, N., Heaphy, N. M., Throgmorton, K. F., Canavan, M., & Gill, T. M. (2022). Evaluating California nursing homes' emergency preparedness for wildfire exposure. Journal of the American Geriatrics Society, 10.1111/jgs.18142. Advance online publication. <a href="https://doi.org/10.1111/jgs.18142" target="blank">https://doi.org/10.1111/jgs.18142</a></li>
 	<li>Palmer, C.L., Weber, N., Throgmorton, K., & Norlander, B. (2021). Public libraries and open government data: Partnerships for progress. <i>Library Journal.</i><a href="https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress" target="_blank">https://www.libraryjournal.com/?detailStory=public-libraries-and-open-government-data-partnerships-for-progress</a></li>
@@ -119,7 +120,6 @@ nav-menu: true
 	<li>Throgmorton, K.F. (2021). Applicability of the CDISC clinical data model to support immuno-oncology studies [Conference presentation]. imCORE 4th Scientific Summit (Virtual).</li>
 	<li>Palmer, C.L., Weber, N., Norlander, B., & Throgmorton, K.F. (2019). Advancing open data: Aligning education with public sector data challenges [Poster]. iSchool Research Symposium, Seattle, WA.</li>
 	</ul>
-<p>
 		
 <h2 id="content">Press & Government Reporting on Work</h2>
 <p>
