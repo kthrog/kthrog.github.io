@@ -52,14 +52,14 @@ nav-menu: true
 		<h4>Teaching</h4>
 		<strong>LIBRARY TRAININGS</strong>
 		<ul>
-			<li>2023 | Co-instructor and Co-designer. When You Can’t Find the Data You Need: Advanced Data Collection Methods . Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2023 | Co-instructor and Co-designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Handle with care: Assessing the quality of literature and data as a health sciences researcher</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2023 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Where Are You Going to Put That?: How to Share Data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2023 | Co-instructor and Co-designer. Visualizing Information: Designing Effective Posters and Figures. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2023 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Fulfilling New Data Management & Sharing Expectations: The New NIH Policy and Beyond [Full recording and slides]</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9721060" target="_blank"> Analyzing and visualizing data with Python: An introduction to numpy and matplotlib (Python, Part 2)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming (Python, Part 1)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2023 | Course Co-Instructor and Co-Designer. When You Can’t Find the Data You Need: Advanced Data Collection Methods . Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2023 | Course Co-Instructor and Co-Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Handle with care: Assessing the quality of literature and data as a health sciences researcher</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2023 | Course Instructor and Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Where Are You Going to Put That?: How to Share Data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2023 | Course Co-Instructor and Co-Designer. Visualizing Information: Designing Effective Posters and Figures. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2023 | Course Instructor and Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Fulfilling New Data Management & Sharing Expectations: The New NIH Policy and Beyond [Full recording and slides]</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2022 | Course Instructor and Designer. <a href="https://schedule.yale.edu/event/9721060" target="_blank"> Analyzing and visualizing data with Python: An introduction to numpy and matplotlib (Python, Part 2)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2022 | Course Instructor and Designer. <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming (Python, Part 1)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2022 | Course Instructor and Designer. <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2019 | Volunteer Co-Leader and Co-Designer. Arduino Co-Design Session: Solving Everyday Problems with Arduino. <i>Seattle Public Library</i>.</li>
 		</ul>
 		<strong>ACADEMIC COURSES</strong>
