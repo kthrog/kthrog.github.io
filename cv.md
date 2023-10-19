@@ -50,9 +50,13 @@ nav-menu: true
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h4>Teaching</h4>
-		<strong>LIBRARY WORKSHOPS</strong>
+		<strong>LIBRARY TRAININGS</strong>
 		<ul>
+			<li>2023 | Co-instructor and Co-designer. When You Can’t Find the Data You Need: Advanced Data Collection Methods . Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2023 | Co-instructor and Co-designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Handle with care: Assessing the quality of literature and data as a health sciences researcher</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2023 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Where Are You Going to Put That?: How to Share Data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2023 | Co-instructor and Co-designer. Visualizing Information: Designing Effective Posters and Figures. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2023 | Instructor and Course Designer. <a href="[https://schedule.yale.edu/event/10084624](https://medicine.yale.edu/event/fulfilling-new-data-management/)" target="_blank">Fulfilling New Data Management & Sharing Expectations: The New NIH Policy and Beyond [Full recording and slides]</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9721060" target="_blank"> Analyzing and visualizing data with Python: An introduction to numpy and matplotlib (Python, Part 2)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9209600" target="_blank">Getting started with Python: An introduction to programming (Python, Part 1)</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2022 | Instructor and Course Designer. <a href="https://schedule.yale.edu/event/9346178" target="_blank">Where in the world is the data you need? How to find and reuse data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
@@ -73,6 +77,7 @@ nav-menu: true
 		<h4>Service, Certifications, & Awards</h4>
 		<strong>SERVICE</strong>
 		<ul>
+			<li>2023-Present | Member. Research Storage Working Group. <i>Yale University</i>.</li>
 			<li>2022-Present | Member. Editorial Board. <i><a href="https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=wmrs20" target="_blank">Medical Reference Services Quarterly</a></i>.</li>
 			<li>2022 | Member. Yale NIH Data Management & Sharing Policy Advisory Group. <i>Yale University</i>.</li>
 			<li>2020 | Student Representative (Volunteer). iSchool COVID-19 Response Task Force. <i>University of Washington</i>.</li>
