@@ -21,7 +21,7 @@ nav-menu: true
 
 <h2 id="content">Current Work</h2>
 		<ul>
-			<li>2021-Present | Data Librarian for the Health Sciences, Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2021-Present | <a href="https://library.medicine.yale.edu/about/staff/kaitlin-throgmorton" target="_blank">Data Librarian for the Health Sciences</a>, Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 		</ul>
 
 <div class="row">
