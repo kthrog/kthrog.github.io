@@ -111,6 +111,7 @@ nav-menu: true
 	<li>Throgmorton, K. (2017). <a href="https://americanlibrariesmagazine.org/2017/03/01/mental-health-first-aid/" target="_blank">Mental health first aid: Training librarians to help patrons in crisis</a>. <i>American Libraries, 48</i>(3-4), 22.</li>
 	<li>Throgmorton, K. (2017). <a href="https://americanlibrariesmagazine.org/2017/01/03/future-library-cards/" target="_blank">The future of library cards: Technology makes library resources more accessible</a>. <i>American Libraries, 48</i>(1-2), 22.</li>
 	<li>Throgmorton, K. (2016). <a href="https://americanlibrariesmagazine.org/2016/11/01/balancing-act-shared-spaces-libraries/" target="_blank">A balancing act: Shared spaces in libraries</a>. <i>American Libraries, 47</i>(11-12), 20.</li>
+	<li>Throgmorton, K. (2016). <a href="https://americanlibrariesmagazine.org/2016/10/31/freedom-of-reading-books-to-prisoners/" target="_blank">The freedom of reading: Librarians help bring books to prisoners</a>. <i>American Libraries</i>, online edition.</li>	
 	<li>Throgmorton, K. (2016). <a href="https://americanlibrariesmagazine.org/2016/05/31/recruiting-retaining-library-volunteers/" target="_blank">Recruiting and retaining volunteers: Cultivating a successful program requires time and effort, but the payoff can be worthwhile</a>. <i>American Libraries, 47</i>(6), 42.</li>
 	</ul>
 		
