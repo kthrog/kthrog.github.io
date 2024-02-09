@@ -39,8 +39,8 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Education</h3>
 		<ul>
-			<li>2020 | MLIS — Library & Information Science, <i>University of Washington</i>.</li>
-    		<li>2010 | BA — English & Spanish, <i>Covenant College</i>.</li>
+			<li>MLIS — Library & Information Science, <i>University of Washington</i>.</li>
+    		        <li>BA — English & Spanish, <i>Covenant College</i>.</li>
 		</ul>
 	</div>
 </div>
