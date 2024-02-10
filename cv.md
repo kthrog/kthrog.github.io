@@ -17,7 +17,6 @@ nav-menu: true
 		</header>	
 
 <!-- One -->
-<p><a href="https://www.kaitlinthrogmorton.com/assets/docs/Resume_KaitlinThrogmorton_2022.pdf" target="_blank" class="button icon fa-download">Download Full Resume (PDF)</a></p>
 
 <h2 id="content">Current Work</h2>
 		<ul>
@@ -30,7 +29,6 @@ nav-menu: true
 		<ul>
 			<li>2020-2021 | Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
 			<li>2018-20 | Research Assistant, <i>University of Washington — Information School — Open Data Literacy Project.</i></li>	
-			<li>2019 | Metadata Intern, <i>City of Seattle.</i></li>
 			<li>2015-19 | Owner, Writer, & Editor, <i>Kaitlin Throgmorton, LLC</i>.</li>
 			<li>2011-16 | Communications Specialist & Volunteer Recruiter, <i>North Carolina Guardian ad Litem</i>.</li>
 			<li>2010-11 | Marketing Assistant, <i>Top Flight, Inc</i>.</li>
