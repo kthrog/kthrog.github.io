@@ -117,6 +117,7 @@ nav-menu: true
 <h2 id="content">Other Works</h2>
 <p>
 	<ul>
+	<li>Throgmorton, K. F. (2024). Bridging data literacy boundaries with a data management plan email course [Conference lightning talk]. Research Data Access and Preservation (RDAP) Summit (Virtual).<a href="https://doi.org/10.17605/OSF.IO/WC3GQ" target="_blank">https://doi.org/10.17605/OSF.IO/WC3GQ</a></li>	
 	<li>Festa, N., Throgmorton, K.F., Plourde, K., & Gill, T.M. (2023). Nursing Home Wildfire Exposure and Preparedness [Poster]. American Geriatrics Society (AGS) Conference, Long Beach, CA.</li>
 	<li>Throgmorton, K.F. (2023). Walk the talk: Turning research data theory into practice [Conference presentation]. Research Data Access and Preservation (RDAP) Summit (Virtual). <a href="https://doi.org/10.17605/OSF.IO/B2UYG" target="_blank">https://doi.org/10.17605/OSF.IO/B2UYG</a></li>
 	<li>Throgmorton, K.F., Festa, N., Doering, M., Carpenter, C., & Gill, T.M. (2023). Enhancing your research: How to collaborate effectively with medical and data librarians [Webinar]. CLIN-STAR Coordinating Center (Virtual). <a href="https://clin-star.org/clin-star-webinar-librarian-2023" target="_blank">https://clin-star.org/clin-star-webinar-librarian-2023</a></li>
