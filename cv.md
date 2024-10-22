@@ -75,7 +75,8 @@ nav-menu: true
 		<h4>Service, Certifications, & Awards</h4>
 		<strong>SERVICE</strong>
 		<ul>
-			<li>2023-Present | Member. Research Storage Working Group. <i>Yale University</i>.</li>
+			<li>2024-Present | Member. <a href="https://web.library.yale.edu/committees/yale-library-staff-climate-survey-working-groups" target="_blank">Climate Survey Working Group: Assessment, Evaluation, Reporting</a>. <i>Yale University</i>.</li>
+			<li>2023 | Member. Research Storage Working Group. <i>Yale University</i>.</li>
 			<li>2022-Present | Member. Editorial Board. <i><a href="https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=wmrs20" target="_blank">Medical Reference Services Quarterly</a></i>.</li>
 			<li>2022 | Member. Yale NIH Data Management & Sharing Policy Advisory Group. <i>Yale University</i>.</li>
 			<li>2020 | Student Representative (Volunteer). iSchool COVID-19 Response Task Force. <i>University of Washington</i>.</li>
@@ -117,6 +118,8 @@ nav-menu: true
 <h2 id="content">Other Works</h2>
 <p>
 	<ul>
+	<li>Throgmorton, K. F., & Dagradi, T. (2024). Data Yesterday and Today: Comparing Dr. Louise Eisenhardt's "Black Book" of Data to Modern Data Management Practices [Poster]. North Atlantic Health Sciences Libraries (NAHSL), Mystic, Connecticut. Zenodo. <a href="https://doi.org/10.5281/zenodo.13936649">https://doi.org/10.5281/zenodo.13936649</a></li>	
+	<li>Throgmorton, K. F., & Brackett, A. (2024, September 24). Teaching Materials For: Discovering Data in PubMed & PubMed Central: Strategies for Successful Searches. Zenodo. <a href="https://doi.org/10.5281/zenodo.13830704" target="_blank">https://doi.org/10.5281/zenodo.13830704</a></li>	
 	<li>Throgmorton, K. F., & Haugh, D. (2024). You've got mail: Designing email courses for medical library users [Poster]. Medical Library Association (MLA), Portland, Oregon. Zenodo. <a href="https://doi.org/10.5281/zenodo.11110822" target="_blank">https://doi.org/10.5281/zenodo.11110822</a></li>	
 	<li>Throgmorton, K. F. (2024). Bridging data literacy boundaries with a data management plan email course [Conference lightning talk]. Research Data Access and Preservation (RDAP) Summit, Virtual. <a href="https://doi.org/10.17605/OSF.IO/WC3GQ" target="_blank">https://doi.org/10.17605/OSF.IO/WC3GQ</a></li>	
 	<li>Festa, N., Throgmorton, K.F., Plourde, K., & Gill, T.M. (2023). Nursing home wildfire exposure and preparedness [Poster]. American Geriatrics Society (AGS) Conference, Long Beach, California.</li>
