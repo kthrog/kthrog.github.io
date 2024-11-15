@@ -50,6 +50,9 @@ nav-menu: true
 		<h4>Teaching</h4>
 		<strong>LIBRARY TRAININGS</strong>
 		<ul>
+			<li>2024 | Course Instructor and Designer. <a href="https://schedule.yale.edu/event/13024686" target="_blank">Is Your Data Reusable?: How to Standardize Your Data</a>a. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
+			<li>2024 | Course Co-Instructor and Co-Designer. <a href="https://schedule.yale.edu/event/12312028?hs=a" target="_blank">Discovering Data in PubMed & PubMed Central: Strategies for Successful Searches</a>a. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>			
+			<li>2023 | Course Instructor and Designer. <a href="https://schedule.yale.edu/event/11749558" target="_blank">Cleaning and Transforming Data with Python: An introduction to pandas (Python, Part 3)</a>a. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2023 | Course Co-Instructor and Co-Designer. When You Can’t Find the Data You Need: Advanced Data Collection Methods . Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2023 | Course Co-Instructor and Co-Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Handle with care: Assessing the quality of literature and data as a health sciences researcher</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
 			<li>2023 | Course Instructor and Designer. <a href="https://schedule.yale.edu/event/10084624" target="_blank">Where Are You Going to Put That?: How to Share Data</a>. Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
@@ -90,7 +93,8 @@ nav-menu: true
 		</ul>
 		<strong>AWARDS</strong>
 		<ul>
-			<li>2020 | Ruth Worden <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Faculty Award for Student Excellence</a> in Library and Information Science. <i>University of Washington</i>.</li>
+			<li>2024 | <a href="https://your.yale.edu/work-yale/staff-resources/staff-recognition/linda-lorimer-award/2024-award-recipients" target="_blank"> Linda K. Lorimer Award for Distinguished Service</a>. <i>Yale University</i>.</li>
+			<li>2020 | <a href="https://ischool.uw.edu/news/2020/06/convocation-20-spotlights-resilience-ischools-class-2020" target="_blank">Ruth Worden Faculty Award for Student Excellence</a> in Library and Information Science. <i>University of Washington</i>.</li>
 		</ul>
 	</div>
 </div>
