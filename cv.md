@@ -20,13 +20,14 @@ nav-menu: true
 
 <h2 id="content">Current Work</h2>
 		<ul>
-			<li>2021-Present | <a href="https://library.medicine.yale.edu/about/staff/kaitlin-throgmorton" target="_blank">Data Librarian for the Health Sciences</a>, Cushing/Whitney Medical Library, <i>Yale University</i>.</li>
-		</ul>
+		<li>2025-Present | Senior Data Governance & Operations Specialist, Education Research & Data Center (ERDC), <i>Washington Office of Financial Management</i>.</li>		
+		</ul>	
 
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Professional Experience</h3>
 		<ul>
+			<li>2021-2024 | Data Librarian for the Health Sciences, Cushing/Whitney Medical Library, <i>Yale University</i>.</li>	
 			<li>2020-2021 | Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
 			<li>2018-20 | Research Assistant, <i>University of Washington — Information School — Open Data Literacy Project.</i></li>	
 			<li>2015-19 | Owner, Writer, & Editor, <i>Kaitlin Throgmorton, LLC</i>.</li>
