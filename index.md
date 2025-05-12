@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: "Data — For Everybody."
-description: "data expert with library and information science training, promoting good data governance practices so the public can access and use data"
+description: "data stategist, focused on making complex data systems make sense"
 author: null
 show_tile: false
 ---
