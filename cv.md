@@ -27,11 +27,11 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Professional Experience</h3>
 		<ul>
-			<li>2021-2024 | Data Librarian for the Health Sciences, Cushing/Whitney Medical Library, <i>Yale University</i>.</li>	
+			<li>2021-2024 | Data Librarian for the Health Sciences, <i>Yale University</i>.</li>	
 			<li>2020-2021 | Bioinformatics Analyst, Data Curator, <i>Sage Bionetworks</i>.</li>	
 			<li>2018-20 | Research Assistant, <i>University of Washington — Information School — Open Data Literacy Project.</i></li>	
 			<li>2015-19 | Owner, Writer, & Editor, <i>Kaitlin Throgmorton, LLC</i>.</li>
-			<li>2011-16 | Communications Specialist & Volunteer Recruiter, <i>North Carolina Guardian ad Litem</i>.</li>
+			<li>2011-16 | Communications Specialist & Volunteer Recruiter, <i>North Carolina Administrative Office of the Courts</i>.</li>
 			<li>2010-11 | Marketing Assistant, <i>Top Flight, Inc</i>.</li>
 		</ul>
 	</div>
